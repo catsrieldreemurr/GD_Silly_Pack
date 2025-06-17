@@ -16,3 +16,8 @@ To easily access the files of the Steam version of Geometry dash:
 Drag the Updated Texture file into the Resources folder and pick "Replace" when prompted.
 
 Icon files must be dragged in to the "icons" folder. Once again, choose to Replace the files when prompted.
+
+# REINSTALLING ORIGINAL FILES
+Because of the way Texture Packs work, Steam will not flag them when checking validity of files.
+
+If you are trying to bring back the old textures, manually drag in the textures from the "originals" folder into the Resources folder, then pick Replace.
