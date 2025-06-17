@@ -6,11 +6,11 @@ Installing Geometry dash texture packs requires that you change specific files i
 
 To easily access the files of the Steam version of Geometry dash:
 
-1 - Open Geometry Dash's Page in the Steam Library
+### 1 - Open Geometry Dash's Page in the Steam Library
 
-2 - Hover over the Cog -> Manage -> Browse Local Files
+### 2 - Hover over the Cog -> Manage -> Browse Local Files
 
-3 - Enter the Resources folder
+### 3 - Enter the Resources folder
 
 
 Drag the Updated Texture file into the Resources folder and pick "Replace" when prompted.
